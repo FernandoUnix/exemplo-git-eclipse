@@ -9,5 +9,6 @@ public class ExemploGit {
 		//alterado do hithub
 		//alterado do eclipse
 		//segundo commit repository
+		//terceiro commit repository
 	}
  }
