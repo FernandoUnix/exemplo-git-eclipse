@@ -5,4 +5,4 @@ public class Snippet {
 		System.out.print("s");
 	}
 } 
-
+ 
